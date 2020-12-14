@@ -2,7 +2,8 @@ ___
 <h1 align="center">Hi. I am Swarnim Doegar 👋</h1>
 <p align="center"><img  src="./assests/me-circle.png" alt="My photo"></p>
 <h2 align="center" >Thanks for visiting my profile 😄</h2>
-__________________________________________________________________________
+
+___
 #### I am a Web Developer 🥳
 #### My skills include 😉:
 >
@@ -13,7 +14,7 @@ __________________________________________________________________________
 * Node.js 
 * MongoDB 
 * C++
-____________________________________________________________________
+___
 #### Want to connect?
 * <a href="https://www.linkedin.com/in/swarnim-doegar/">💼 LinkedIn </a>
 * <a href="mailto:swarnimdoegar@gmail.com">📩 Mail <a>
