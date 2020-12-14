@@ -1,7 +1,7 @@
 # Hi there 🙋! <br> I am Swarnim Doegar.<br> Thanks for visiting my profile 😄
 
-👨‍💻 I am a Web Developer 👨‍💻
-## My skills include 😉:
+### 👨‍💻 I am a Web Developer 👨‍💻
+# My skills include 🤩:
 * HTML 
 * CSS 
 * Javascript 
