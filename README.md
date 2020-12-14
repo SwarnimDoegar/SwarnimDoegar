@@ -1,7 +1,7 @@
 # Hi there 🙋! <br> I am Swarnim Doegar.<br> Thanks for visiting my profile 😄
 
 ### 👨‍💻 I am a Web Developer 👨‍💻
-# My skills include 🤩:
+# 🤩 My skills include:
 * HTML 
 * CSS 
 * Javascript 
@@ -10,7 +10,7 @@
 * MongoDB 
 * C++
 
-# Wanna collaborate?
+# 🔗 Wanna collaborate?
 * <a href="https://www.linkedin.com/in/swarnim-doegar/" target="_blank">💼 LinkedIn </a>
 * <a href="mailto:swarnimdoegar@gmail.com" target="_blank">📩 Mail <a>
 * <a href="https://www.instagram.com/minraws404/" target="_blank">📷 Instagram </a>
